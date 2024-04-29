@@ -56,10 +56,6 @@
   status: pass
 
 - summary: |
-    Успешная проверка верстки создания нового турнира на сайте 
-  status: fail
-  
-- summary: |
     Успешная проверка вкладки "LOBBY" на сайте 
   status: pass
 
